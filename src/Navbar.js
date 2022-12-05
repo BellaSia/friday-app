@@ -5,7 +5,7 @@ function Navbar(){
         <div>
             <nav className="navbar navbar-expand-lg bg-success">
   <div className="container-fluid">
-    <Link className="navbar-brand" to="/">
+    <Link className="navbar-brand text-white" to="/">
     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-coffee" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
    <path d="M3 14c.83 .642 2.077 1.017 3.5 1c1.423 .017 2.67 -.358 3.5 -1c.83 -.642 2.077 -1.017 3.5 -1c1.423 -.017 2.67 .358 3.5 1"></path>
@@ -20,13 +20,13 @@ function Navbar(){
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" to="/home">Home</Link>
+          <Link className="nav-link active text-white" aria-current="page" to="/home">Home</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/features">Order</Link>
+          <Link className="nav-link text-white" to="/features">Order</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/pricing">Login</Link>
+          <Link className="nav-link text-white" to="/pricing">Login</Link>
         </li>
      
       </ul>

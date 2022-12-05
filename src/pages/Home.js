@@ -9,7 +9,7 @@ function Home() {
     <div>
     <Landing/>
     <br></br>
-    <h1 style={{margin:"10px"}}> Let's go shopping! </h1>
+    <h1 style={{margin:"10px"}}> Coffee Drinks! </h1>
     <br></br>
     <Allcards/>
     <Allcards/>
