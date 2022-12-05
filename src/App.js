@@ -12,7 +12,7 @@ function App() {
       <Navbar/>
       <div className="container">
         <Routes>
-          <Route path="/reactapp/" element={<Home/>} />
+          <Route path="/friday-app" element={<Home/>} />
           <Route path="/" element={<Home/>} />
           <Route path="/home" element={<Home/>} />
           <Route path="/pricing" element={<Pricing/>} />
