@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/fri-app/static/css/main.073c9b0a.css",
-    "main.js": "/fri-app/static/js/main.1b71f07e.js",
-    "static/media/mall.jpg": "/fri-app/static/media/mall.321c77977f6b5d872f50.jpg",
-    "static/media/shoes.jpg": "/fri-app/static/media/shoes.1dcfcb4f8d80f9802a4a.jpg",
-    "static/media/dress.jpg": "/fri-app/static/media/dress.ae2cdbf72ebc37e0197f.jpg",
-    "static/media/polo.jpg": "/fri-app/static/media/polo.ce01090ec75dde9a7d13.jpg",
-    "index.html": "/fri-app/index.html",
-    "main.073c9b0a.css.map": "/fri-app/static/css/main.073c9b0a.css.map",
-    "main.1b71f07e.js.map": "/fri-app/static/js/main.1b71f07e.js.map"
+    "main.css": "/friday-app/static/css/main.073c9b0a.css",
+    "main.js": "/friday-app/static/js/main.1afa043f.js",
+    "static/media/four.jpg": "/friday-app/static/media/four.30180c01ae85623c5fbe.jpg",
+    "static/media/one.jpg": "/friday-app/static/media/one.74d742abec814bfb3c4a.jpg",
+    "static/media/two.jpg": "/friday-app/static/media/two.09e362a728cd06d685fc.jpg",
+    "static/media/Mermaid.jpg": "/friday-app/static/media/Mermaid.39246dc0335ef7cb7408.jpg",
+    "static/media/three.jpg": "/friday-app/static/media/three.391816bef9a2c27b9fe6.jpg",
+    "static/media/six.jpg": "/friday-app/static/media/six.76ed233c7e18ad216850.jpg",
+    "index.html": "/friday-app/index.html",
+    "main.073c9b0a.css.map": "/friday-app/static/css/main.073c9b0a.css.map",
+    "main.1afa043f.js.map": "/friday-app/static/js/main.1afa043f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1b71f07e.js"
+    "static/js/main.1afa043f.js"
   ]
 }
