@@ -1,4 +1,5 @@
-import Students from '../components/Students'
+import Students from '../components/Students';
+
 function Features() {
    return(
      
