@@ -4,14 +4,14 @@ function Footer(){
     <div>
        <br/>
        <br/>
-<div class="card">
-  <div class="card-header">
+<div className="card">
+  <div className="card-header">
     Mermaid Quote
   </div>
-  <div class="card-body">
-    <blockquote class="blockquote mb-0">
+  <div className="card-body">
+    <blockquote className="blockquote mb-0">
       <p>“Some coffee, plus some thinking, equals some great ideas.”</p>
-      <footer class="blockquote-footer">Someone famous</footer>
+      <footer className="blockquote-footer">Someone famous</footer>
     </blockquote>
   </div>
 </div>

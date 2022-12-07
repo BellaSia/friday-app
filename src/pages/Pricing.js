@@ -29,16 +29,16 @@ function Login() {
 <br/>
 <br/>
 
-<div class="card mb-3">
-  <img src={six} class="card-img-top" alt="..."/>
-  <div class="card-body">
-    <h5 class="card-title">"Today's good mood is sponsored by Mermaid coffee."</h5>
+<div className="card mb-3">
+  <img src={six} className="card-img-top" alt="..."/>
+  <div className="card-body">
+    <h5 className="card-title">"Today's good mood is sponsored by Mermaid coffee."</h5>
     <br/>
 
     <div> 
-    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-instagram" 
-    width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" 
-    stroke-linecap="round" stroke-linejoin="round"> 
+    <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-brand-instagram" 
+    width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" 
+    strokeLinecap="round" strokeLinejoin="round"> 
       <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
       <rect x="4" y="4" width="16" height="16" rx="4"></rect>
       <circle cx="12" cy="12" r="3"></circle>
